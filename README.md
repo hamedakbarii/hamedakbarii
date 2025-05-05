@@ -3,9 +3,9 @@
 
 <h1>💫 About Me :</h1>
 
-- 🌱 I’m currently learning **PWA and node.js**
+- 🌱 I’m currently learning **PWA and Express.js**
 
-- 💬 Ask me about Javascript , Typescript , React , Next.js , React-native , TailwindCss 
+- 💬 Ask me about JavaScript, TypeScript, React, Next.js, React-native, TailwindCSS 
 
 - 📫 How to reach me **hamedakbariwork@gmail.com**
 
