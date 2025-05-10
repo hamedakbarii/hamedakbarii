@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PWA and Express.js**
 
-- 💬 Ask me about JavaScript, TypeScript, React, Next.js, React-native, TailwindCSS 
+- 💬 Ask me about JavaScript, TypeScript, React, Next.js, ExpressJs, React-native, TailwindCSS 
 
 - 📫 How to reach me **hamedakbariwork@gmail.com**
 
